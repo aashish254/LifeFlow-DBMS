@@ -121,25 +121,25 @@ lifeflow-dbms/
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](screenshots/homepage.png)
+<img src="screenshots/homepage.png" alt="Homepage" width="800"/>
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+<img src="screenshots/dashboard.png" alt="Dashboard" width="800"/>
 
 ### Donor Registration
-![Donor Registration](screenshots/screenshotssp1_register_donor3.png)
+<img src="screenshots/screenshotssp1_register_donor3.png" alt="Donor Registration" width="800"/>
 
 ### Process Donation
-![Process Donation](screenshots/screenshotssp2_process_donation4.png)
+<img src="screenshots/screenshotssp2_process_donation4.png" alt="Process Donation" width="800"/>
 
 ### Blood Allocation
-![Blood Allocation](screenshots/screenshotssp4_allocate_blood1.png)
+<img src="screenshots/screenshotssp4_allocate_blood1.png" alt="Blood Allocation" width="800"/>
 
 ### Low Stock Alerts
-![Low Stock Alerts](screenshots/screenshotssp5_low_stock_alerts.png)
+<img src="screenshots/screenshotssp5_low_stock_alerts.png" alt="Low Stock Alerts" width="800"/>
 
 ### Database Tables
-![Database Schema](screenshots/supabase%20table%20format.png)
+<img src="screenshots/supabase table format.png" alt="Database Schema" width="800"/>
 
 ---
 
